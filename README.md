@@ -1,5 +1,15 @@
 # Activity 5 Strings - JASPER NERY
 
+![](prog1.JPG)
+
+![](prog2.JPG)
+
+![](prog3.JPG)
+
+![](prog4.JPG)
+
+![](prog5.JPG)
+
 ![](titlepage.png)
 
 ![](enterstring.png)
